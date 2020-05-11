@@ -1,0 +1,23 @@
+{
+  "name": "MyDiary",
+  "displayName": "MyDiary",
+  "expo": {
+
+    "name": "MyDiary",
+    "slug": "MyDiary",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+"android": {
+      "package": "com.MyDiary",
+      "versionCode": 1,
+"googleServicesFile": "./google-services.json",
+    }
+  }
+}
